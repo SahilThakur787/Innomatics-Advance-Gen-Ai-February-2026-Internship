@@ -1,0 +1,18 @@
+Name: Priya Verma
+
+Skills:
+- Python
+- SQL
+- Data Analysis
+- Pandas
+- NumPy
+
+Experience:
+2 years experience as Data Analyst
+
+Projects:
+- Sales dashboard in Power BI
+- Basic machine learning models
+
+Tools:
+Excel, Power BI, Python

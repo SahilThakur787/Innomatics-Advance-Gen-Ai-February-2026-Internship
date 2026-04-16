@@ -1,0 +1,15 @@
+Name: Arun Kumar
+
+Skills:
+- Basic Python
+- MS Excel
+
+Experience:
+Fresher, recently graduated
+
+Projects:
+- Simple Excel charts
+- College mini project on data entry system
+
+Tools:
+Excel

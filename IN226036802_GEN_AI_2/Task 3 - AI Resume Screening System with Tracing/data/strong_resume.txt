@@ -1,0 +1,23 @@
+Name: Rahul Sharma
+
+Skills:
+- Python
+- SQL
+- Machine Learning
+- Data Analysis
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+- NLP
+
+Experience:
+4 years of experience as Data Scientist at Infosys
+
+Projects:
+- Customer churn prediction using ML
+- NLP-based sentiment analysis system
+- Sales forecasting using time series models
+
+Tools:
+Python, Jupyter Notebook, Power BI, Git

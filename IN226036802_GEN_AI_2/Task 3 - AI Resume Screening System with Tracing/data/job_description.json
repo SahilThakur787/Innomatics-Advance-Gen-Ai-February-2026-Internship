@@ -1,0 +1,16 @@
+{
+  "Required Skills": [
+    "Python",
+    "SQL",
+    "Machine Learning",
+    "Data Analysis",
+    "Pandas",
+    "NumPy",
+    "Scikit-learn"
+  ],
+  "Good to have": [
+    "TensorFlow",
+    "Deep Learning",
+    "NLP"
+  ]
+}
